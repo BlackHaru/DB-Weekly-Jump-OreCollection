@@ -1,0 +1,11 @@
+C:\Users\BlackHaru\Documents\VisualStudioProjects\DB Weekly Jump OreCollection\Weekly Jump OreCollection\bin\Debug\Weekly Jump OreCollection.exe.config
+C:\Users\BlackHaru\Documents\VisualStudioProjects\DB Weekly Jump OreCollection\Weekly Jump OreCollection\bin\Debug\Weekly Jump OreCollection.exe
+C:\Users\BlackHaru\Documents\VisualStudioProjects\DB Weekly Jump OreCollection\Weekly Jump OreCollection\bin\Debug\Weekly Jump OreCollection.pdb
+C:\Users\BlackHaru\Documents\VisualStudioProjects\DB Weekly Jump OreCollection\Weekly Jump OreCollection\obj\Debug\Weekly Jump OreCollection.csprojResolveAssemblyReference.cache
+C:\Users\BlackHaru\Documents\VisualStudioProjects\DB Weekly Jump OreCollection\Weekly Jump OreCollection\obj\Debug\Weekly_Jump_OreCollection.AddCharacterForm.resources
+C:\Users\BlackHaru\Documents\VisualStudioProjects\DB Weekly Jump OreCollection\Weekly Jump OreCollection\obj\Debug\Weekly_Jump_OreCollection.mainForm.resources
+C:\Users\BlackHaru\Documents\VisualStudioProjects\DB Weekly Jump OreCollection\Weekly Jump OreCollection\obj\Debug\Weekly_Jump_OreCollection.Properties.Resources.resources
+C:\Users\BlackHaru\Documents\VisualStudioProjects\DB Weekly Jump OreCollection\Weekly Jump OreCollection\obj\Debug\Weekly Jump OreCollection.csproj.GenerateResource.Cache
+C:\Users\BlackHaru\Documents\VisualStudioProjects\DB Weekly Jump OreCollection\Weekly Jump OreCollection\obj\Debug\Weekly Jump OreCollection.csproj.CoreCompileInputs.cache
+C:\Users\BlackHaru\Documents\VisualStudioProjects\DB Weekly Jump OreCollection\Weekly Jump OreCollection\obj\Debug\Weekly Jump OreCollection.exe
+C:\Users\BlackHaru\Documents\VisualStudioProjects\DB Weekly Jump OreCollection\Weekly Jump OreCollection\obj\Debug\Weekly Jump OreCollection.pdb
